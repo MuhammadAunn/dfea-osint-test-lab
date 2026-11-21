@@ -1,0 +1,10 @@
+DFEA CONTROLLED OSINT TEST LAB
+
+Organization: Northstar Research Lab (Fictional)
+Public Contact: research.contact@northstar-lab.invalid
+
+SYNTHETIC TEST CREDENTIAL - NOT REAL
+api_key = "sk_test_DFEA_FAKE_1234567890ABCDEF"
+
+Normal Text: This repository contains no real credentials.
+All identifiers are fictional and for authorized testing only.
